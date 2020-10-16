@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <g id="Final-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Seva-Sadan-Society" transform="translate(-730.000000, -579.000000)">
+            <g id="Group-20" transform="translate(730.000000, 277.000000)">
+                <g id="arrow" transform="translate(40.000000, 342.000000) rotate(-270.000000) translate(-40.000000, -342.000000) translate(0.000000, 302.000000)">
+                    <circle id="Oval" fill="#F3F3F3" cx="40" cy="40" r="40"></circle>
+                    <g id="Group-82" transform="translate(33.267327, 33.267327)" stroke="#111111">
+                        <polyline id="Path-13" transform="translate(9.549487, 7.128713) rotate(-315.000000) translate(-9.549487, -7.128713) " points="4.79701218 2.37623762 14.3019627 2.37623762 14.3019627 11.8811881"></polyline>
+                        <line x1="16.2705024" y1="7.12871287" x2="0" y2="7.12871287" id="Path-14"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

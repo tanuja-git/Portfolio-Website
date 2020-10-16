@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <g id="Final-Design-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-530.000000, -1296.000000)">
+            <g id="Group-8" transform="translate(120.000000, 850.000000)">
+                <g id="Group-6" transform="translate(410.000000, 0.000000)">
+                    <g id="arrow" transform="translate(0.000000, 446.000000)">
+                        <circle id="Oval" fill="#FFFFFF" cx="20" cy="20" r="20"></circle>
+                        <g id="Group-15" transform="translate(13.000000, 14.000000)" stroke="#070707">
+                            <polyline id="Path-13" transform="translate(8.185275, 6.073550) rotate(-315.000000) translate(-8.185275, -6.073550) " points="4.11172472 2 12.2588251 2 12.2588251 10.1471004"></polyline>
+                            <line x1="13.9461449" y1="6.07355021" x2="0" y2="6.07355021" id="Path-14"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
