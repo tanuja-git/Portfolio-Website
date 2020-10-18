@@ -5051,7 +5051,7 @@
     margin-left: 0px;
   }
   .link {
-    display: none;
+    display: block;
     font-size: 21px;
   }
   .link.sl_project_link {
@@ -5460,6 +5460,9 @@
   }
   .main_cta {
     margin-top: 0px;
+  }
+  .link {
+    margin-bottom: 40px;
   }
   .link.sl_project_link {
     margin-bottom: 40px;
