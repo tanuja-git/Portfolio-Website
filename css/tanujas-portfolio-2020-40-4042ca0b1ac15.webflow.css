@@ -2689,7 +2689,7 @@
 
 .credit_titles {
   font-family: stratos-lights, sans-serif;
-  color: #fff;
+  color: #7d7d7d;
   font-weight: 400;
   letter-spacing: 1px;
 }
@@ -3097,14 +3097,14 @@
 
 .sc_challenge_colorbox {
   width: 10vw;
-  background-color: #e4782a;
+  background-color: #1f1f1f;
 }
 
 .sc_credit_color {
   width: 90vw;
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #e4782a;
+  background-color: #1f1f1f;
 }
 
 .sc-credit_underline_color {
@@ -3261,7 +3261,7 @@
   width: 90vw;
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #005650;
+  background-color: #1f1f1f;
 }
 
 .text-span {
@@ -3866,7 +3866,7 @@
   width: 90vw;
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #d17700;
+  background-color: #1f1f1f;
 }
 
 .sa-credit_underline_color {
@@ -4167,7 +4167,7 @@
     width: 100%;
   }
   .sl_credit_color {
-    background-color: #df4653;
+    background-color: #1f1f1f;
   }
   .sl-credit_underline_color {
     background-color: #b92633;
@@ -4600,7 +4600,7 @@
     width: 90vw;
     padding-top: 60px;
     padding-bottom: 60px;
-    background-color: #005650;
+    background-color: #1f1f1f;
   }
   .link-block-2 {
     width: 120px;
@@ -4691,7 +4691,7 @@
     background-color: #d17700;
   }
   .sa_credit_color {
-    background-color: #d17700;
+    background-color: #1f1f1f;
   }
   .sa-credit_underline_color {
     background-color: #ad6300;
